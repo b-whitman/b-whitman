@@ -2,6 +2,8 @@
 
 Thanks for taking the time to check out my github profile. I've highlighted a few projects to show what I'm capable of, and this section is sure to grow as I work on more. In general I'm interested in natural language processing, deep learning, and game design. Please feel free to reach out if you have any questions at all about any codebase I've contributed to.
 
+[LinkedIn](https://www.linkedin.com/in/benjamin-whitman-946a0a192/)
+
 <!--
 **b-whitman/b-whitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
